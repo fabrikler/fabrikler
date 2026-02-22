@@ -11,11 +11,10 @@ At my core, I’m a systems thinker. I enjoy taking things apart, structuring th
 
 Now I'm a dev trainee based in Berlin, building things on the side and treating every day as an opportunity to get better at it.
 
-## What I work with
+## What I’m currently building with
 
 <div align="left" style="pointer-events: none;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" style="margin: 6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" style="margin: 6px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" style="margin: 6px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" style="margin: 6px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="36" style="margin: 6px;" />
@@ -25,6 +24,7 @@ Now I'm a dev trainee based in Berlin, building things on the side and treating 
 
 ## What I'm currently learning
 
+- TypeScript
 - Java & Data Structures / Algorithms 
 - Networking (Cisco CCST)
 - Infrastructure & self-hosting through my homelab
