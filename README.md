@@ -2,10 +2,8 @@
 
 # Hi, I'm Carlos
 
-A career in advertising production brought me closer to data – and that's 
-where things got interesting. The technical side pulled me in, Python got 
-me hooked, and at some point the decision made itself: software development 
-is what I do now.
+A career in advertising production brought me closer to data – and that's where things got interesting.
+A bit of Python opened the door, and at some point the decision made itself: software development is what I do now.
 
 At my core, I’m a systems thinker. I enjoy taking things apart, structuring them properly, and making them work better.
 
@@ -24,14 +22,11 @@ Now I'm a dev trainee based in Berlin, building things on the side and treating 
 
 ## What I'm currently learning
 
-- TypeScript
-- Java & Data Structures / Algorithms 
-- Networking (Cisco CCST)
+- Node.js & REST APIs
+- Networking fundamentals (on track for CCNA)
+- Java & Data Structures / Algorithms (vocational school)
 - Infrastructure & self-hosting through my homelab
 
 ## Right now I'm working toward
 
-Turning problems into technical solutions. Data first.
-
-
-
+Turning problems into technical solutions. Backend, data pipelines, and AI-connected systems.
