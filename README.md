@@ -24,7 +24,7 @@ Now I'm a dev trainee based in Berlin, building things on the side and treating 
 
 - Node.js & REST APIs
 - Networking fundamentals (on track for CCNA)
-- Java & Data Structures / Algorithms (vocational school)
+- Data Structures & Algorithms 
 - Infrastructure & self-hosting through my homelab
 
 ## Right now I'm working toward
