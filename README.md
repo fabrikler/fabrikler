@@ -2,7 +2,7 @@
 
 # Hi, I'm Carlos
 
-A career in advertising production brought me closer to data – and that's where things got interesting.
+A career in advertising brought me closer to data – and that's where things got interesting.
 A bit of Python opened the door, and at some point the decision made itself: software development is what I do now.
 
 At my core, I’m a systems thinker. I enjoy taking things apart, structuring them properly, and making them work better.
