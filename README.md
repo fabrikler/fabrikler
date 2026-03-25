@@ -29,4 +29,4 @@ Now I'm a dev trainee based in Berlin, building things on the side and treating 
 
 ## Right now I'm working toward
 
-Turning problems into technical solutions. Backend, data pipelines, and AI-connected systems.
+Currently building a NASA NEO tracker – Node.js API, file-based cache, React frontend, containerized with Docker. Next: LLM integration as a distributed system for asteroid analytics.
