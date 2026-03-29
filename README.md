@@ -7,7 +7,7 @@ A bit of Python opened the door, and at some point the decision made itself: sof
 
 At my core, I’m a systems thinker. I enjoy taking things apart, structuring them properly, and making them work better.
 
-Now I'm a dev trainee based in Berlin, building things on the side and treating every day as an opportunity to get better at it.
+Now I'm a FIAE apprentice based in Berlin, building things on the side and treating every day as an opportunity to get better at it.
 
 ## What I’m currently building with
 
@@ -22,11 +22,11 @@ Now I'm a dev trainee based in Berlin, building things on the side and treating 
 
 ## What I'm currently learning
 
-- Node.js & REST APIs
-- Networking fundamentals (on track for CCNA)
-- Data Structures & Algorithms 
+- TypeScript
+- Java (MOOC / vocational training)
+- Networking fundamentals (CCNA track)
 - Infrastructure & self-hosting through my homelab
 
 ## Right now I'm working toward
 
-Currently building a NASA NEO tracker – Node.js API, file-based cache, React frontend, containerized with Docker. Next: LLM integration as a distributed system for asteroid analytics.
+Currently building a NASA NEO tracker – Node.js API with file-based caching, React frontend, containerized with Docker. Exploring LLM integration next.
