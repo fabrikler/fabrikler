@@ -17,6 +17,7 @@ Now I'm a FIAE apprentice based in Berlin, building things on the side and treat
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" style="margin: 6px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="36" style="margin: 6px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="36" style="margin: 6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" height="36" style="margin: 6px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/proxmox/proxmox-plain-wordmark.svg" height="36" style="margin: 6px;" />
 </div>
 
