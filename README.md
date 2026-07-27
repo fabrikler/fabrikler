@@ -1,16 +1,23 @@
-## Hi there 👋
+I'm a Software Development Apprentice (FIAE) based in Berlin with a background in visual storytelling and creative direction.
 
-<!--
-**fabrikler/fabrikler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My current focus is backend engineering. I enjoy building systems, understanding how software works under the hood, and turning ideas into applications.
 
-Here are some ideas to get you started:
+I'm particularly interested in backend engineering, infrastructure, and building software that is simple, reliable, and maintainable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently learning and building with
+
+- Java & Spring Boot
+- TypeScript, React & Next.js
+- PostgreSQL
+- Docker & Linux
+- Proxmox Homelab
+
+### Current projects
+
+**[■□□] NeoTracker**
+
+A full-stack application that ingests data from NASA APIs, processes and stores it with Spring Boot and PostgreSQL, and serves it to a React frontend.
+
+**[■■■] notes.carlosmeyer.com**
+
+My digital knowledge base for software engineering and IT.
