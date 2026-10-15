@@ -4,23 +4,22 @@ I'm a Software Development Apprentice (FIAE) based in Berlin, transitioning into
 
 **I build systems that move data:** ingesting it from APIs and raw files, validating and transforming it, and making it reliable to use. I care about understanding how things work under the hood and writing software that is simple, reliable, and maintainable.
 
-## Focus
+### Focus
 
 - **Backend & Data Engineering:** APIs, data pipelines, validation, transformation
 - **Infrastructure:** Docker, Linux, Proxmox homelab
 
-## Tools I work with
+### Tools I currently work with
 
 - **Python** (Pandas, DuckDB) · **SQL** (PostgreSQL, MariaDB)
 - **Rust**: currently learning for backend & data work
-- **Java & Spring Boot** · **TypeScript**
 
-## Current projects
+### Current projects
 
-### [■□□] NCS Data Lab
+#### [■□□] NCS Data Lab
 Exploring the Norwegian Continental Shelf through real-world datasets. A Python and SQL workflow for validation, cleaning, transformation, and analysis with Pandas and DuckDB.
 
 Includes **CSVCheck**, a command-line tool that inspects raw CSV files for structural and data quality issues before they enter the pipeline.
 
-### [■■■] [notes.carlosmeyer.com](https://notes.carlosmeyer.com)
+#### [■■■] [notes.carlosmeyer.com](https://notes.carlosmeyer.com)
 My knowledge base for software engineering, databases, networking, and infrastructure.
