@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Carlos
 
-<!--
-**fabrikler/fabrikler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Development Apprentice (FIAE) based in Berlin, transitioning into software engineering after a decade in photography, filmmaking, and creative direction.
 
-Here are some ideas to get you started:
+**I build systems that move data:** ingesting it from APIs and raw files, validating and transforming it, and making it reliable to use. I care about understanding how things work under the hood and writing software that is simple, reliable, and maintainable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+
+- **Backend & Data Engineering:** APIs, data pipelines, validation, transformation
+- **Infrastructure:** Docker, Linux, Proxmox homelab
+
+## Tools I work with
+
+- **Python** (Pandas, DuckDB) · **SQL** (PostgreSQL, MariaDB)
+- **Rust**: currently learning for backend & data work
+- **Java & Spring Boot** · **TypeScript**
+
+## Current projects
+
+### [■□□] NCS Data Lab
+Exploring the Norwegian Continental Shelf through real-world datasets. A Python and SQL workflow for validation, cleaning, transformation, and analysis with Pandas and DuckDB.
+
+Includes **CSVCheck**, a command-line tool that inspects raw CSV files for structural and data quality issues before they enter the pipeline.
+
+### [■■■] [notes.carlosmeyer.com](https://notes.carlosmeyer.com)
+My knowledge base for software engineering, databases, networking, and infrastructure.
