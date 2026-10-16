@@ -11,7 +11,8 @@ I'm a Software Development Apprentice (FIAE) based in Berlin, transitioning into
 
 ### Tools I currently work with
 
-- **Python** (Pandas, DuckDB) · **SQL** (PostgreSQL, MariaDB)
+- **Python** (Pandas, DuckDB)
+- **SQL** (PostgreSQL, MariaDB)
 - **Rust**: currently learning for backend & data work
 
 ### Current projects
